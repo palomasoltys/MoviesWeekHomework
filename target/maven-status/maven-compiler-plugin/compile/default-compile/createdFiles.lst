@@ -1,0 +1,10 @@
+com/javaunit3/springmvc/HibernateConfig.class
+com/javaunit3/springmvc/Movie.class
+com/javaunit3/springmvc/BatmanMovie.class
+com/javaunit3/springmvc/TitanicMovie.class
+com/javaunit3/springmvc/MovieController.class
+com/javaunit3/springmvc/MovieEntity.class
+com/javaunit3/springmvc/SpringmvcApplication.class
+com/javaunit3/springmvc/BestMovieService.class
+com/javaunit3/springmvc/MovieApp.class
+com/javaunit3/springmvc/VoteEntity.class
